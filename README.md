@@ -56,9 +56,9 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 
 ## 🏆 Proyectos Destacados
 
-### 1. **[Nombre del Proyecto Principal](https://github.com/FelixMF/RCPro)**
-> Breve descripción del proyecto (ej: Aplicación web completa con React y Node.js)
-- **Tecnologías:** React, Node.js, MongoDB
+### 1. **[RCPRO](https://github.com/FelixMF/RCPro)**
+> Pagina de Ventas para RCPro Inc. una empresa estadounidense de limpieza.
+- **Tecnologías:** React, Node.js, FirebaseDB
 - **Características:** Autenticación, API REST, Diseño responsivo
 - **Estado:** ✅ Completado
 
