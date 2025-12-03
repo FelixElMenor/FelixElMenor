@@ -62,6 +62,12 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 - **Características:** Autenticación, API REST, Diseño responsivo
 - **Estado:** ✅ Completado
 
+- ### 2. **[VFM](https://github.com/FelixMF/RCPro)**
+> Pagina de Ventas para RCPro Inc. una empresa estadounidense de limpieza.
+- **Tecnologías:** Python, Node.js, Sql
+- **Características:** Inteligencia Artificial, Predicción
+- **Estado:** ✅ Completado
+
 ## 📈 Mi Progreso
 
 ```mermaid
