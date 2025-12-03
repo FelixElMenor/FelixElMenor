@@ -2,9 +2,9 @@
 
 ### 🚀 Desarrollador Full Stack | Estudiante de Ingeniería de Software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([Tu-LinkedIn])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react)]([Tu-Portfolio])
-[![GitHub](https://img.shields.io/github/followers/[TuUsuario]?style=for-the-badge&logo=github)](https://github.com/[TuUsuario])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-montesdeoca-620232212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react)](https://felixmf.netlify.app/)
+[![GitHub](https://img.shields.io/github/followers/FelixElMenor?style=for-the-badge&logo=github)](https://github.com/FelixElMenor)
 
 ---
 
@@ -16,8 +16,8 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 - 🌱 Aprendiendo: **React Native, Docker, AWS**
 - 👯 Busco colaborar en: **Proyectos open source y startups**
 - 💬 Pregúntame sobre: **JavaScript, React, Node.js**
-- 📫 Cómo contactarme: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- ⚡ Dato curioso: **Me gusta resolver problemas de código mientras hago senderismo**
+- 📫 Cómo contactarme: [montesdeocacruzmarco@gmail.com](montesdeocacruzmarco@gmail.com)
+- ⚡ Dato curioso: **Me gusta resolver problemas de código y jugar videojuegos**
 
 ---
 
@@ -48,33 +48,19 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TuUsuario]&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&theme=radical&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TuUsuario]&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMF&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 Proyectos Destacados
 
-### 1. **[Nombre del Proyecto Principal](https://github.com/[TuUsuario]/[Repo])**
+### 1. **[Nombre del Proyecto Principal](https://github.com/FelixMF/RCPro)**
 > Breve descripción del proyecto (ej: Aplicación web completa con React y Node.js)
 - **Tecnologías:** React, Node.js, MongoDB
 - **Características:** Autenticación, API REST, Diseño responsivo
-- **Estado:** ✅ Completado | 🚧 En desarrollo
-
-### 2. **[Nombre del Segundo Proyecto](https://github.com/[TuUsuario]/[Repo])**
-> Breve descripción (ej: Sistema de gestión de tareas)
-- **Tecnologías:** JavaScript, HTML, CSS
-- **Características:** LocalStorage, UI moderna
 - **Estado:** ✅ Completado
-
-### 3. **[Proyecto Académico](https://github.com/[TuUsuario]/[Repo])**
-> Proyecto desarrollado para la universidad
-- **Tecnologías:** Python, Django, PostgreSQL
-- **Características:** CRUD completo, Documentación técnica
-- **Estado:** ✅ Completado
-
----
 
 ## 📈 Mi Progreso
 
