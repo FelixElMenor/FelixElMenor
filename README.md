@@ -47,9 +47,20 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FelixElMenor&show_icons=true&theme=radical)
+**Mis métricas actuales:**
+- ⭐ **Total Stars:** 0
+- 📅 **Commits 2025:** 245
+- 🔀 **Total PRs:** 27
+- 📝 **Total Issues:** 1
+- 🏆 **Repositorios públicos:** 1
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixElMenor&layout=compact&theme=radical&hide_border=true)
+**Lenguajes que uso:**
+- PHP
+- Java
+- JavaScript
+- Python
+- TypeScript
+- C
 
 ---
 
