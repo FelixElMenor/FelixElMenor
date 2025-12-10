@@ -47,9 +47,9 @@ Soy un apasionado desarrollador con interés en crear soluciones innovadoras que
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FelixMF&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FelixElMenor&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMF&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixElMenor&layout=compact&theme=radical&hide_border=true)
 
 ---
 
